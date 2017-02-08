@@ -1,0 +1,12 @@
+Driver:
+    - ServiceName      : Scanner
+
+Modules:
+  - Action    : Syslog
+    
+Syslog:
+  - Transport          : TCP
+    Server             : serner.com
+    Port               : 514
+
+
