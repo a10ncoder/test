@@ -1,0 +1,4 @@
+﻿  Building 'scanuser' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  scanUser.c
+  scanuser.vcxproj -> C:\Users\a10n\Documents\Visual Studio 2015\DRIVERS\scanner\user\Debug\scanuser.exe
+  scanuser.vcxproj -> Debug\scanuser.pdb (Full PDB)
